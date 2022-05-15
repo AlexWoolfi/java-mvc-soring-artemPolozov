@@ -1,0 +1,5 @@
+com\example\controllers\HelloController.class
+com\example\controllers\NumberController.class
+com\example\config\AppConfig.class
+com\example\entity\Test.class
+com\example\config\ConfigInitialazer.class
